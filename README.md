@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Introduce
 
-You can use the [editor on GitHub](https://github.com/dongjialong2006/book/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+本文介绍如何用TravisCI工具发布将Gitbook电子书发布到Github Pages:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- TravisCI的设置
+- Gitbook工具
+- Github设置
 
 ### Markdown
 
